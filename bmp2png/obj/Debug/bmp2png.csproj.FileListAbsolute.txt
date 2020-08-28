@@ -1,0 +1,11 @@
+C:\Users\shinku\source\repos\bmp2png\bmp2png\bin\Debug\bmp2png.exe.config
+C:\Users\shinku\source\repos\bmp2png\bmp2png\bin\Debug\bmp2png.exe.manifest
+C:\Users\shinku\source\repos\bmp2png\bmp2png\bin\Debug\bmp2png.application
+C:\Users\shinku\source\repos\bmp2png\bmp2png\bin\Debug\bmp2png.exe
+C:\Users\shinku\source\repos\bmp2png\bmp2png\bin\Debug\bmp2png.pdb
+C:\Users\shinku\source\repos\bmp2png\bmp2png\obj\Debug\bmp2png.csprojAssemblyReference.cache
+C:\Users\shinku\source\repos\bmp2png\bmp2png\obj\Debug\bmp2png.csproj.CoreCompileInputs.cache
+C:\Users\shinku\source\repos\bmp2png\bmp2png\obj\Debug\bmp2png.exe.manifest
+C:\Users\shinku\source\repos\bmp2png\bmp2png\obj\Debug\bmp2png.application
+C:\Users\shinku\source\repos\bmp2png\bmp2png\obj\Debug\bmp2png.exe
+C:\Users\shinku\source\repos\bmp2png\bmp2png\obj\Debug\bmp2png.pdb
