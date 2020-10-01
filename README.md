@@ -1,5 +1,5 @@
 # bmp2png
-converts bmp files into png files in directories recursively. requires .net 4.5
+converts bmp files into png files in directories recursively. requires .net 4.5 **Now it utilizes your multi-core CPUs!!!**
 
 ## HOW TO USE
 Just run
